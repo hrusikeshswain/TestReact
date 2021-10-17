@@ -46,7 +46,7 @@ const classes = useStyles();
       }}
     >
 	 <div>
-	 <h1 style={{float : 'left', paddingRight : '5px',textAlign:'left',fontFamily:'verdana',color:'black',paddingTop:'50px',paddingLeft:'0px'}}> Eric Kleppen </h1>
+	 <h1 style={{float : 'left', paddingRight : '5px',textAlign:'left',fontFamily:'verdana',color:'black',paddingTop:'50px',paddingLeft:'0px'}}> Demo Name </h1>
 	 <hr  style={{color: 'transparent',backgroundColor: 'transparent',borderColor : 'transparent',height: '0vh',marginTop:'10vh',width:'200vh'}}/>
 	 <div className={classes.container}>
       <text  className={classes.button} style={{backgroundColor:'green',color:'white',padding:'10px'}}>Follow</text >
@@ -60,8 +60,8 @@ const classes = useStyles();
 	  
 	  
 	    <div style={{display: 'flex',width: '70%',backgroundColor: 'white',alignItems:'left', height: '50vh', flexDirection: 'column'}}>
-		   <h1 style={{float : 'left', paddingRight : '5px',textAlign:'left',fontFamily:'verdana',color:'black',paddingLeft:'30%'}}> About Eric Kleppen </h1>
-		    <p style={{float : 'left', paddingRight : '5px',textAlign:'left',fontFamily:'verdana',color:'black',paddingLeft:'30%'}}> Software Product Analyst in Data Science. <br />pythondashboards.com Top writer in <br />Business www.linkedin.com/in/erickleppen01/ </p>
+		   <h1 style={{float : 'left', paddingRight : '5px',textAlign:'left',fontFamily:'verdana',color:'black',paddingLeft:'30%'}}> About Demo Name </h1>
+		    <p style={{float : 'left', paddingRight : '5px',textAlign:'left',fontFamily:'verdana',color:'black',paddingLeft:'30%'}}> Software Product Analyst in Data Science. <br />pythondashboards.com Top writer in <br />Business www.linkedin.com/in/DemoName/ </p>
 		</div>
 		<div style={{display: 'flex',width: '30%',backgroundColor: 'white',justifyContent:'center', alignItems:'top', height: '50vh',paddingRight:'10%',paddingTop:'20px'}}>
 		  <img src="https://media.geeksforgeeks.org/wp-content/uploads/20200617121258/gfg-image2-300x177.png" alt="Restaurant Intro Food"  />
@@ -71,7 +71,7 @@ const classes = useStyles();
 	  
 	  
 	   <hr  style={{color: 'gray',backgroundColor: 'green',borderColor : 'green',height: '0.1vh',marginTop:'10vh',marginLeft:'15%',marginRight:'10%'}}/>
-	   <text style={{float : 'left', paddingRight : '5px',textAlign:'left',fontFamily:'verdana',fontSize:'20px',color:'black',paddingTop:'10px',marginLeft:'15%',marginRight:'10%'}}> Get an email whenever Eric Kleppen publishes. </text>
+	   <text style={{float : 'left', paddingRight : '5px',textAlign:'left',fontFamily:'verdana',fontSize:'20px',color:'black',paddingTop:'10px',marginLeft:'15%',marginRight:'10%'}}> Get an email whenever Demo Name publishes. </text>
 	   <hr  style={{color: 'gray',backgroundColor: 'green',borderColor : 'green',height: '0.1vh',marginTop:'10vh',marginLeft:'15%',marginRight:'10%'}}/>
 	   
 	  <form style={{marginTop:'5vh',marginBottom:'5vh',marginLeft:'15%',marginRight:'10%'}}>
