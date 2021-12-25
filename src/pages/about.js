@@ -46,7 +46,7 @@ const classes = useStyles();
       }}
     >
 	 <div>
-	 <h1 style={{float : 'left', paddingRight : '5px',textAlign:'left',fontFamily:'verdana',color:'black',paddingTop:'50px',paddingLeft:'0px'}}> Demo   Name </h1>
+	 <h1 style={{float : 'left', paddingRight : '5px',textAlign:'left',fontFamily:'verdana',color:'black',paddingTop:'50px',paddingLeft:'0px'}}> Demo  Name </h1>
 	 <hr  style={{color: 'transparent',backgroundColor: 'transparent',borderColor : 'transparent',height: '0vh',marginTop:'10vh',width:'200vh'}}/>
 	 <div className={classes.container}>
       <text  className={classes.button} style={{backgroundColor:'green',color:'white',padding:'10px'}}>Follow</text >
